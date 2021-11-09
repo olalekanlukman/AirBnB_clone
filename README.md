@@ -67,4 +67,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 - [Lukman Mohammed](https://github.com/olalekanlukman)
 
-- **Divine Ukonu**
+- [Divine Ukonu](https://github.com/Gemma-Mariae)
