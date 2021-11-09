@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Lukman Mohammed](https://github.com/arthurdamm/twodoor) ~ [LinkedIn](https://www.linkedin.com/in/arthur-damm-96527042/) ~ [@arthurdamm](https://twitter.com/arthurdamm):
-*Sharpening my skills at Holberton School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
-- **Divine Ukonu** - [laura.derohan@gmail.com](https://github.com/lroudge)
+- [Lukman Mohammed](https://github.com/olalekanlukman)
+
+- **Divine Ukonu**
