@@ -1,6 +1,6 @@
 # AirBnB clone - The console
 
-![hbnb-screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20211109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211109T142311Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3a449c4bd64462ae8bd8d771015ee863846098ea621b3a6f785ebb5a34a9eb07)
+![hbnb-screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20211109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211109T142311Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=22aab2caa223282d4becb44e7418ed7e96d615cc9c5b269c6e2610c3cff4f9db)
 ## Description
 
 This team project is part of the Holberton School Full-Stack Software Engineer program.
